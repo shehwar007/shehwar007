@@ -29,3 +29,115 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+
+<section class="industires industires-new-sec px-40">
+            <div class="container">
+                <div class="row mt-3 align-items-center">
+                    <div class="col-md-12">
+                        <div class="sec-title">
+                            <p><span>Industries we Power</span></p>
+                            <h3><span>Industry Expertise</span></h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="industires-infocus-boxes">
+    <ul>
+        <li>
+            <a href="custom-ecommerce-platforms-development.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-ecommerce"></i>
+                </div>
+                <p>Ecommerce</p>
+            </a>
+        </li>
+        <li>
+            <a href="healthcare.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-healthcare-industry"></i>
+                </div>
+                <p>Healthcare</p>
+            </a>
+        </li>
+        <li>
+            <a href="media-and-entertainment.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-media"></i>
+                </div>
+                <p>Media</p>
+            </a>
+        </li>
+        <li>
+            <a href="finance-and-banking.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-finance"></i>
+                </div>
+                <p>Finance</p>
+            </a>
+        </li>
+        <li>
+            <a href="insurance.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-insurance"></i>
+                </div>
+                <p>Insurance</p>
+            </a>
+        </li>
+        <li>
+            <a href="security.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-security"></i>
+                </div>
+                <p>Security</p>
+            </a>
+        </li>
+        <li>
+            <a href="elearning.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-education"></i>
+                </div>
+                <p>Education</p>
+            </a>
+        </li>
+        <li>
+            <a href="real-estate.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-real-estate"></i>
+                </div>
+                <p>Real Estate</p>
+            </a>
+        </li>
+        <li>
+            <a href="sports.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-sports"></i>
+                </div>
+                <p>Sports</p>
+            </a>
+        </li>
+        <li>
+            <a href="logistic-and-transportation.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-logistic-shipping"></i>
+                </div>
+                <p>Logistic</p>
+            </a>
+        </li>
+        <li>
+            <a href="agritech.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-agritech"></i>
+                </div>
+                <p>Agritech</p>
+            </a>
+        </li>
+        <li>
+            <a href="food-and-beverages.html">
+                <div class="infocus-box-img">
+                    <i class="c-icon-food-delivery-app"></i>
+                </div>
+                <p>Food</p>
+            </a>
+        </li>
+    </ul>
+</div>            </div>
+        </section>
